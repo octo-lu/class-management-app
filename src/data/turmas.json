@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Turma A",
+    "participantes": [
+      { "id": 1, "nome": "fulano", "time": "time 1" },
+      { "id": 2, "nome": "ciclano", "time": "time 1" },
+      { "id": 3, "nome": "beltrano", "time": "time 2" },
+      { "id": 4, "nome": "joao", "time": "time 2" }
+    ]
+  },
+  {
+    "nome": "Turma B",
+    "participantes": [
+      {"id": 1, "nome": "ana", "time": "time 1" },
+      {"id": 2, "nome": "bia", "time": "time 2" }
+    ]
+  }
+]
